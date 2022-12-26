@@ -4,7 +4,7 @@ Created by https://github.com/hbonath/yealinkxml
 
 Updated by me.
 
-## How to setup
+## How to setup | Server
 
 - Go to mysql and use a asterisk database:
 
@@ -25,6 +25,13 @@ At the end, you'll see the number of extension that you have, for this cas 98.
     ```
 - Then, you can go to the web and found the directory updated.
     http://yourserver/directory/phoonebook.php
+    
+## How to setup | Phone
+
+- Go to:
+
+![image](https://user-images.githubusercontent.com/47614279/209569588-dcda838e-c7bc-4c8e-8bdb-164eb5811b68.png)
+
 
   
 
