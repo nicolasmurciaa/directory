@@ -19,6 +19,7 @@ At the end, you'll see the number of extension that you have, for this cas 98.
    ![image](https://user-images.githubusercontent.com/47614279/209568719-3994386d-6484-40d2-afda-fbd292712818.png)
   
 -Go to phonebook.php, and edit
+
     ```Bash 
     $usuarios = 98; // Cantidad extensiones encontradas por variable $sql
     ```
