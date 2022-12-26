@@ -2,9 +2,9 @@
 
 Created by https://github.com/hbonath/yealinkxml
 
-updated by me.
+Updated by me.
 
-How to setup
+## How to setup
 
 1. Go to mysql and use a asterisk database:
 
