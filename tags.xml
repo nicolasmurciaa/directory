@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YeastarIPPhoneDirectory>
+    <DirectoryEntry>
+        <Name>Lily</Name>
+        <Telephone label="Mobile Number">12345654626</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Jim</Name>
+        <Telephone label="Office Number">654321</Telephone>
+        <Telephone label="Other Number">8608</Telephone>
+    </DirectoryEntry>
+</YeastarIPPhoneDirectory>
