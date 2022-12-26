@@ -32,6 +32,10 @@ At the end, you'll see the number of extension that you have, for this cas 98.
 
 ![image](https://user-images.githubusercontent.com/47614279/209569588-dcda838e-c7bc-4c8e-8bdb-164eb5811b68.png)
 
+- DDKEY
+   Programable Key: 
+   
+   ![image](https://user-images.githubusercontent.com/47614279/209571979-5f568291-af5f-4ea8-a260-d3a214701519.png)
 
 ### Enjoy
 
