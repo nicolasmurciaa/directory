@@ -6,7 +6,7 @@ Updated by me.
 
 ## How to setup | Server 🏢	
 
-- Go to mysql and use a asterisk database:
+- Go to mysql and use an asterisk database:
 
    ![image](https://user-images.githubusercontent.com/47614279/209568681-ccd3cc63-8cb9-48d9-a847-7678630a165b.png)
    
